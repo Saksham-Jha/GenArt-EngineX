@@ -79,9 +79,6 @@ To run this project, you will need to add the following environment variables to
 `DB_URL`
 
 
-## Screenshots
-
-
 ## Feedback
 
 If you have any feedback, please reach out to me at 21je0806@iitism.ac.in
