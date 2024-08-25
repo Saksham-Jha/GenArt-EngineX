@@ -1,8 +1,6 @@
 # GenArt-EngineX
 Unleash the power of AI to generate captivating images. genArt_EngineX not only empowers you to generate awe-inspiring AI-generated images but also allows you to share your creations with our vibrant community.
 
-## Demo
-https://genartenginex.netlify.app/
 
 
 
